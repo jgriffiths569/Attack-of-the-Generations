@@ -1,3 +1,7 @@
+https://jgrif569.itch.io/attack-of-the-generations // play the game here.
+
+View the YT video of me going through the game mechanics and all the scripts: https://www.youtube.com/watch?v=JyXNxruGxok
+
 # Unity ^2020.1.0 Web3GL Template
 
 ## Methods in Browser
